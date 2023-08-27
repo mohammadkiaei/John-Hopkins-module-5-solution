@@ -1,1 +1,4 @@
-# John-Hopkins-module-5-solution
+# John Hopkins Module 5 Solution
+This project is Module 5 of the Web Development Course in Coursera that John Hopkins University offers.<br/>
+This is my [CERTIFICATION](https://www.coursera.org/account/accomplishments/verify/SXRLTEMD6HLY).
+<br/>
